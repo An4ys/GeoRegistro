@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo_pastel">#FFF5E4</color>
+    <color name="boton_registro">#FFC288</color>
+    <color name="boton_historial">#FFB3B3</color>
+    <color name="boton_mapa">#FFE3A9</color>
+    <color name="texto_oscuro">#4A3F35</color>
+</resources>
